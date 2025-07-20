@@ -1,0 +1,25 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  height: 600px;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  height: 600px;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  height: 600px;
+}
+footer {
+  position: fixed;
+  bottom: 150px;
+  left: 80px;
+}
+.back {
+  position: fixed;
+  bottom: 150px;
+  right: 80px;
+}
